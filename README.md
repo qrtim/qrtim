@@ -10,4 +10,4 @@
 ## ⭐ Stuff I (atleast) tried doing something with
 
 
-[![My Skills]((https://skillicons.dev/icons?i=css,discord,bots,html,postgres,py,pycharm,figma,raspberrypi&perline=5)](https://skillicons.dev)
+[![My Skills]((https://skillicons.dev/icons?i=css,discord,bots,html,postgres,py,pycharm,figma,raspberrypi&perline=6)](https://skillicons.dev)
