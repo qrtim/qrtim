@@ -1,5 +1,4 @@
 # Hey, It's Tim! 👋
-[![Discord](https://img.shields.io/discord/1259441226751541308?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/6FwHFBfASq)
 
 ## 📊 Stats
 
