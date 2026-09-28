@@ -1,5 +1,7 @@
 # Hey, It's Tim! 👋
-Germany
+- germany
+- discord: gxt.tim
+  
 ## 📊 Stats
 
 
